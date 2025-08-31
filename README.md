@@ -34,4 +34,6 @@ Está orientado a empresas que necesitan **optimizar la relación entre aplicaci
 - 🧾 Manejo de **líneas de factura** s.  
 - 🔒 Control de transacciones con rollback automático en caso de error.  
 - 📊 Registro de logs de cada operación para auditoría.  
-- ⚙️ Modularidad: clases especializadas para **conexión, operaciones y modelos**.  
+- ⚙️ Modularidad: clases especializadas para **conexión, operaciones y modelos**.
+
+**La elaboracion del cliente lo hare en paginas md porque el proyecto quedo muy grande y no me dejo subirlo**
