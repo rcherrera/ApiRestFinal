@@ -19,7 +19,7 @@ Está orientado a empresas que necesitan **optimizar la relación entre aplicaci
 
 ## 🛠️ Tecnologías utilizadas  
 
-- **Lenguaje:** C# (.NET Framework 4.7.2 / .NET 6 según implementación).  
+- **Lenguaje:** C# (.NET Framework 4.7.2 / .NET 8 según implementación).  
 - **Sistema de Ventas:** 
 - **API REST:**  Conceptos aprendidos en el curso Web Services.  
 - **Base de Datos:** SQL Server en Azure.  
