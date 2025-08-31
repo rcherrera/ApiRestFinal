@@ -1,4 +1,4 @@
-# 🚀 Proyecto DI API – Integración con SAP Business One  
+# 🚀 Proyecto API REST – Curso Recibido en CodeGT 
 
 Bienvenido a este proyecto desarrollado en ** C# .NET** que integra y automatiza operaciones  **CRUD** mediante la **DI API (Data Interface API)**.  
 El objetivo principal es facilitar la gestión de procesos de negocio como **Compras en linea, Listado de productos**, garantizando **Seguridad con JWT**.
